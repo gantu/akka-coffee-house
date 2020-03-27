@@ -1,0 +1,347 @@
+23:12:15 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+23:16:26 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+23:18:52 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+23:34:27 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+23:36:20 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:12:02 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:14:11 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse created!
+15:14:11 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:24:21 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+15:24:21 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:24:21 INFO  [akka://coffee-house-system/user/coffee-house] - Coffee Brewing
+15:29:16 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+15:29:16 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:35:51 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+15:35:51 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:35:51 INFO  [akka://coffee-house-system/user/coffee-house] - coffee brewing
+15:37:34 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+15:37:34 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:37:34 INFO  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - coffee brewing
+15:56:49 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+15:56:49 DEBUG [akka://coffee-house-system/user/coffee-house] - started (com.lightbend.training.coffeehouse.CoffeeHouse@3c41e5f2)
+15:56:49 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - started (com.lightbend.training.coffeehouse.Guest@72dec48c)
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$a#1167552163]
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$b#-1938839844]
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - started (com.lightbend.training.coffeehouse.Guest@3136f116)
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - started (com.lightbend.training.coffeehouse.Guest@2fb0559e)
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$c#-1706559652]
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - started (com.lightbend.training.coffeehouse.Guest@337b7cec)
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$d#1257141147]
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - started (com.lightbend.training.coffeehouse.Guest@3dbc94f3)
+15:57:07 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$e#-768131090]
+16:37:48 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - stopped
+16:37:48 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - stopped
+16:37:48 DEBUG [akka://coffee-house-system/user/coffee-house] - stopping
+16:37:48 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - stopped
+16:37:48 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - stopped
+16:37:48 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - stopped
+16:37:48 DEBUG [akka://coffee-house-system/user/coffee-house] - stopped
+16:55:16 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+16:55:16 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - started (com.lightbend.training.coffeehouse.Waiter@412faea9)
+16:55:16 DEBUG [akka://coffee-house-system/user/coffee-house] - started (com.lightbend.training.coffeehouse.CoffeeHouse@5b9e3aae)
+16:55:16 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/waiter#948101165]
+16:55:16 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+16:55:23 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - started (com.lightbend.training.coffeehouse.Guest@5ff8b9df)
+16:55:23 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$a#-780871266]
+16:55:23 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - started (com.lightbend.training.coffeehouse.Guest@7599a3c4)
+16:55:23 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$b#427538340]
+16:55:23 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$c#95842406]
+16:55:23 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - started (com.lightbend.training.coffeehouse.Guest@4b0b13ac)
+16:58:13 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - started (com.lightbend.training.coffeehouse.Guest@6aaabc8a)
+16:58:13 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$d#-1683277456]
+16:58:42 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$e#-1113379514]
+16:58:42 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - started (com.lightbend.training.coffeehouse.Guest@7f6ab199)
+16:58:44 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$f#-1187555221]
+16:58:44 DEBUG [akka://coffee-house-system/user/coffee-house/$f] - started (com.lightbend.training.coffeehouse.Guest@1a9af995)
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house] - stopping
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - stopped
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house/$f] - stopped
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - stopped
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - stopped
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - stopped
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - stopped
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - stopped
+16:59:35 DEBUG [akka://coffee-house-system/user/coffee-house] - stopped
+16:59:39 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+16:59:39 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+16:59:39 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - started (com.lightbend.training.coffeehouse.Waiter@747dc01c)
+16:59:39 DEBUG [akka://coffee-house-system/user/coffee-house] - started (com.lightbend.training.coffeehouse.CoffeeHouse@770c6512)
+16:59:39 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/waiter#1685642426]
+16:59:44 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - started (com.lightbend.training.coffeehouse.Guest@7b2042fc)
+16:59:44 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$a#-688049859]
+16:59:49 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - started (com.lightbend.training.coffeehouse.Guest@5fe03e99)
+16:59:49 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$b#-1130841426]
+16:59:51 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$c#187471921]
+16:59:51 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - started (com.lightbend.training.coffeehouse.Guest@42479b0)
+17:08:37 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - stopped
+17:08:37 DEBUG [akka://coffee-house-system/user/coffee-house] - stopping
+17:08:37 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - stopped
+17:08:37 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - stopped
+17:08:37 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - stopped
+17:08:37 DEBUG [akka://coffee-house-system/user/coffee-house] - stopped
+17:21:30 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+17:21:30 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - started (com.lightbend.training.coffeehouse.Waiter@180933cb)
+17:21:30 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+17:21:30 DEBUG [akka://coffee-house-system/user/coffee-house] - started (com.lightbend.training.coffeehouse.CoffeeHouse@14525711)
+17:21:30 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/waiter#129915714]
+17:21:53 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - Unknown command !
+17:22:00 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - Unknown command  !
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$a#-477349584]
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$b#1706104414]
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$c#587443547]
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - started (com.lightbend.training.coffeehouse.Guest@3dc2f053)
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - started (com.lightbend.training.coffeehouse.Guest@1dd4f2c5)
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - started (com.lightbend.training.coffeehouse.Guest@396a087c)
+17:22:05 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 1 yummy Akkaccino
+17:22:05 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 1 yummy Akkaccino
+17:22:05 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 1 yummy Akkaccino
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$d#711259877]
+17:22:05 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - started (com.lightbend.training.coffeehouse.Guest@6025ecc4)
+17:22:05 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 1 yummy Akkaccino
+17:22:07 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 2 yummy Akkaccino
+17:22:07 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 2 yummy Akkaccino
+17:22:07 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 2 yummy Akkaccino
+17:22:07 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 2 yummy Akkaccino
+17:22:09 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 3 yummy Akkaccino
+17:22:09 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 3 yummy Akkaccino
+17:22:09 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 3 yummy Akkaccino
+17:22:09 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 3 yummy Akkaccino
+17:22:11 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 4 yummy Akkaccino
+17:22:11 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 4 yummy Akkaccino
+17:22:11 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 4 yummy Akkaccino
+17:22:11 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 4 yummy Akkaccino
+17:22:13 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 5 yummy Akkaccino
+17:22:13 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 5 yummy Akkaccino
+17:22:13 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 5 yummy Akkaccino
+17:22:13 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 5 yummy Akkaccino
+17:22:15 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 6 yummy Akkaccino
+17:22:15 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 6 yummy Akkaccino
+17:22:15 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 6 yummy Akkaccino
+17:22:15 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 6 yummy Akkaccino
+17:22:17 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 7 yummy Akkaccino
+17:22:17 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 7 yummy Akkaccino
+17:22:17 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 7 yummy Akkaccino
+17:22:17 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 7 yummy Akkaccino
+17:22:19 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 8 yummy Akkaccino
+17:22:19 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 8 yummy Akkaccino
+17:22:19 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 8 yummy Akkaccino
+17:22:19 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 8 yummy Akkaccino
+17:22:21 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 9 yummy Akkaccino
+17:22:21 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 9 yummy Akkaccino
+17:22:21 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 9 yummy Akkaccino
+17:22:21 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 9 yummy Akkaccino
+17:22:23 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 10 yummy Akkaccino
+17:22:23 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 10 yummy Akkaccino
+17:22:23 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 10 yummy Akkaccino
+17:22:23 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 10 yummy Akkaccino
+17:22:25 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 11 yummy Akkaccino
+17:22:25 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 11 yummy Akkaccino
+17:22:25 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 11 yummy Akkaccino
+17:22:25 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 11 yummy Akkaccino
+17:22:27 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 12 yummy Akkaccino
+17:22:27 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 12 yummy Akkaccino
+17:22:27 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 12 yummy Akkaccino
+17:22:27 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 12 yummy Akkaccino
+17:22:29 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 13 yummy Akkaccino
+17:22:29 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 13 yummy Akkaccino
+17:22:29 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 13 yummy Akkaccino
+17:22:29 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 13 yummy Akkaccino
+17:22:29 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$e#-417529039]
+17:22:29 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - started (com.lightbend.training.coffeehouse.Guest@13130f0f)
+17:22:29 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 1 yummy CaffeScala
+17:22:31 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 14 yummy Akkaccino
+17:22:31 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 14 yummy Akkaccino
+17:22:31 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 14 yummy Akkaccino
+17:22:31 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 14 yummy Akkaccino
+17:22:31 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 2 yummy CaffeScala
+17:22:33 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 15 yummy Akkaccino
+17:22:33 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 15 yummy Akkaccino
+17:22:33 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 15 yummy Akkaccino
+17:22:33 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 15 yummy Akkaccino
+17:22:33 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 3 yummy CaffeScala
+17:22:35 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 16 yummy Akkaccino
+17:22:35 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 16 yummy Akkaccino
+17:22:35 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 16 yummy Akkaccino
+17:22:35 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 16 yummy Akkaccino
+17:22:35 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 4 yummy CaffeScala
+17:22:37 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 17 yummy Akkaccino
+17:22:37 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 17 yummy Akkaccino
+17:22:37 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 17 yummy Akkaccino
+17:22:37 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 17 yummy Akkaccino
+17:22:37 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 5 yummy CaffeScala
+17:22:39 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 18 yummy Akkaccino
+17:22:39 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 18 yummy Akkaccino
+17:22:39 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 18 yummy Akkaccino
+17:22:39 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 18 yummy Akkaccino
+17:22:39 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 6 yummy CaffeScala
+17:22:41 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 19 yummy Akkaccino
+17:22:41 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 19 yummy Akkaccino
+17:22:41 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 19 yummy Akkaccino
+17:22:41 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 19 yummy Akkaccino
+17:22:41 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 7 yummy CaffeScala
+17:22:43 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 20 yummy Akkaccino
+17:22:43 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 20 yummy Akkaccino
+17:22:43 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 20 yummy Akkaccino
+17:22:43 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 20 yummy Akkaccino
+17:22:43 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 8 yummy CaffeScala
+17:22:45 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 21 yummy Akkaccino
+17:22:45 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 21 yummy Akkaccino
+17:22:45 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 21 yummy Akkaccino
+17:22:45 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 21 yummy Akkaccino
+17:22:45 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 9 yummy CaffeScala
+17:22:47 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 22 yummy Akkaccino
+17:22:47 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 22 yummy Akkaccino
+17:22:47 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 22 yummy Akkaccino
+17:22:47 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 22 yummy Akkaccino
+17:22:47 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 10 yummy CaffeScala
+17:22:48 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$f#-1944820153]
+17:22:48 DEBUG [akka://coffee-house-system/user/coffee-house/$f] - started (com.lightbend.training.coffeehouse.Guest@43a9ff58)
+17:22:48 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 1 yummy MochaPlay
+17:22:49 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 23 yummy Akkaccino
+17:22:49 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 23 yummy Akkaccino
+17:22:49 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 23 yummy Akkaccino
+17:22:49 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 23 yummy Akkaccino
+17:22:49 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 11 yummy CaffeScala
+17:22:50 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 2 yummy MochaPlay
+17:22:51 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 24 yummy Akkaccino
+17:22:51 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 24 yummy Akkaccino
+17:22:51 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 24 yummy Akkaccino
+17:22:51 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 24 yummy Akkaccino
+17:22:51 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 12 yummy CaffeScala
+17:22:52 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 3 yummy MochaPlay
+17:22:53 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 25 yummy Akkaccino
+17:22:53 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 25 yummy Akkaccino
+17:22:53 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 25 yummy Akkaccino
+17:22:53 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 25 yummy Akkaccino
+17:22:53 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 13 yummy CaffeScala
+17:22:54 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 4 yummy MochaPlay
+17:22:55 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 26 yummy Akkaccino
+17:22:55 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 26 yummy Akkaccino
+17:22:55 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 26 yummy Akkaccino
+17:22:55 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 26 yummy Akkaccino
+17:22:55 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 14 yummy CaffeScala
+17:22:56 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 5 yummy MochaPlay
+17:22:57 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 27 yummy Akkaccino
+17:22:57 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 27 yummy Akkaccino
+17:22:57 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 27 yummy Akkaccino
+17:22:57 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 27 yummy Akkaccino
+17:22:57 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 15 yummy CaffeScala
+17:22:58 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 6 yummy MochaPlay
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house] - stopping
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - stopped
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - stopped
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - stopped
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house/$f] - stopped
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - stopped
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - stopped
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - stopped
+17:22:59 DEBUG [akka://coffee-house-system/user/coffee-house] - stopped
+23:00:00 DEBUG [akka://coffee-house-system/user/coffee-house] - CoffeeHouse Open!
+23:00:00 WARN  [com.lightbend.training.coffeehouse.CoffeeHouseApp(akka://coffee-house-system)] - CoffeeHouseApp running
+Enter [34mcommands[0m into the terminal: [34m[e.g. `q` or `quit`][0m
+23:00:00 DEBUG [akka://coffee-house-system/user/coffee-house/barista] - started (com.lightbend.training.coffeehouse.Barista@37bde3b3)
+23:00:00 DEBUG [akka://coffee-house-system/user/coffee-house] - started (com.lightbend.training.coffeehouse.CoffeeHouse@6f7d65c)
+23:00:00 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - started (com.lightbend.training.coffeehouse.Waiter@5462f2c4)
+23:00:00 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/barista#-1521443796]
+23:00:00 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/waiter#-378676682]
+23:00:17 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$a#1250440258]
+23:00:17 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - started (com.lightbend.training.coffeehouse.Guest@2a19c57)
+23:00:19 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 1 yummy Akkaccino
+23:00:23 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 2 yummy Akkaccino
+23:00:27 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 3 yummy Akkaccino
+23:00:31 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 4 yummy Akkaccino
+23:00:35 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 5 yummy Akkaccino
+23:00:39 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 6 yummy Akkaccino
+23:00:43 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 7 yummy Akkaccino
+23:00:47 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 8 yummy Akkaccino
+23:00:51 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 9 yummy Akkaccino
+23:00:55 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 10 yummy Akkaccino
+23:00:58 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - started (com.lightbend.training.coffeehouse.Guest@28cdddfc)
+23:00:58 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$b#-1475049628]
+23:00:59 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 11 yummy Akkaccino
+23:01:00 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$c#-85765061]
+23:01:00 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - started (com.lightbend.training.coffeehouse.Guest@19c38650)
+23:01:01 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 1 yummy MochaPlay
+23:01:03 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 1 yummy CaffeScala
+23:01:05 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 12 yummy Akkaccino
+23:01:07 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 2 yummy MochaPlay
+23:01:09 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 2 yummy CaffeScala
+23:01:11 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 13 yummy Akkaccino
+23:01:13 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 3 yummy MochaPlay
+23:01:15 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 3 yummy CaffeScala
+23:01:17 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 14 yummy Akkaccino
+23:01:19 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 4 yummy MochaPlay
+23:01:21 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 4 yummy CaffeScala
+23:01:23 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 15 yummy Akkaccino
+23:01:25 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 5 yummy MochaPlay
+23:01:27 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 5 yummy CaffeScala
+23:01:29 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 16 yummy Akkaccino
+23:01:31 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 6 yummy MochaPlay
+23:01:33 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 6 yummy CaffeScala
+23:01:35 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 17 yummy Akkaccino
+23:01:37 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 7 yummy MochaPlay
+23:01:39 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 7 yummy CaffeScala
+23:01:41 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 18 yummy Akkaccino
+23:01:43 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 8 yummy MochaPlay
+23:01:45 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$d#-144387601]
+23:01:45 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - started (com.lightbend.training.coffeehouse.Guest@19d6c32c)
+23:01:45 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$e#1258370426]
+23:01:45 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - started (com.lightbend.training.coffeehouse.Guest@68d960a7)
+23:01:45 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 8 yummy CaffeScala
+23:01:46 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$f#-1860473608]
+23:01:46 DEBUG [akka://coffee-house-system/user/coffee-house/$f] - started (com.lightbend.training.coffeehouse.Guest@35db4d34)
+23:01:46 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$g#991851005]
+23:01:46 DEBUG [akka://coffee-house-system/user/coffee-house/$g] - started (com.lightbend.training.coffeehouse.Guest@17047b18)
+23:01:46 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$h#-971493639]
+23:01:46 DEBUG [akka://coffee-house-system/user/coffee-house/$h] - started (com.lightbend.training.coffeehouse.Guest@3b1cb5ff)
+23:01:47 DEBUG [akka://coffee-house-system/user/coffee-house] - now supervising Actor[akka://coffee-house-system/user/coffee-house/$i#842926444]
+23:01:47 DEBUG [akka://coffee-house-system/user/coffee-house/$i] - started (com.lightbend.training.coffeehouse.Guest@cc01de7)
+23:01:47 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 19 yummy Akkaccino
+23:01:49 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 1 yummy Akkaccino
+23:01:51 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 1 yummy Akkaccino
+23:01:53 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 9 yummy MochaPlay
+23:01:55 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 1 yummy Akkaccino
+23:01:57 INFO  [akka://coffee-house-system/user/coffee-house/$g] - Enjoying 1 yummy Akkaccino
+23:01:59 INFO  [akka://coffee-house-system/user/coffee-house/$h] - Enjoying 1 yummy Akkaccino
+23:02:01 INFO  [akka://coffee-house-system/user/coffee-house/$i] - Enjoying 1 yummy Akkaccino
+23:02:03 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 9 yummy CaffeScala
+23:02:05 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 20 yummy Akkaccino
+23:02:07 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 2 yummy Akkaccino
+23:02:09 INFO  [akka://coffee-house-system/user/coffee-house/$e] - Enjoying 2 yummy Akkaccino
+23:02:11 INFO  [akka://coffee-house-system/user/coffee-house/$b] - Enjoying 10 yummy MochaPlay
+23:02:13 INFO  [akka://coffee-house-system/user/coffee-house/$f] - Enjoying 2 yummy Akkaccino
+23:02:15 INFO  [akka://coffee-house-system/user/coffee-house/$g] - Enjoying 2 yummy Akkaccino
+23:02:17 INFO  [akka://coffee-house-system/user/coffee-house/$h] - Enjoying 2 yummy Akkaccino
+23:02:19 INFO  [akka://coffee-house-system/user/coffee-house/$i] - Enjoying 2 yummy Akkaccino
+23:02:21 INFO  [akka://coffee-house-system/user/coffee-house/$c] - Enjoying 10 yummy CaffeScala
+23:02:23 INFO  [akka://coffee-house-system/user/coffee-house/$a] - Enjoying 21 yummy Akkaccino
+23:02:25 INFO  [akka://coffee-house-system/user/coffee-house/$d] - Enjoying 3 yummy Akkaccino
+23:02:25 DEBUG [akka://coffee-house-system/user/coffee-house] - stopping
+23:02:25 DEBUG [akka://coffee-house-system/user/coffee-house/$c] - stopped
+23:02:25 DEBUG [akka://coffee-house-system/user/coffee-house/$b] - stopped
+23:02:25 DEBUG [akka://coffee-house-system/user/coffee-house/$e] - stopped
+23:02:25 DEBUG [akka://coffee-house-system/user/coffee-house/$d] - stopped
+23:02:26 DEBUG [akka://coffee-house-system/user/coffee-house/$f] - stopped
+23:02:26 DEBUG [akka://coffee-house-system/user/coffee-house/$a] - stopped
+23:02:26 DEBUG [akka://coffee-house-system/user/coffee-house/$g] - stopped
+23:02:26 DEBUG [akka://coffee-house-system/user/coffee-house/$h] - stopped
+23:02:26 DEBUG [akka://coffee-house-system/user/coffee-house/$i] - stopped
+23:02:26 DEBUG [akka://coffee-house-system/user/coffee-house/waiter] - stopped
+23:02:27 DEBUG [akka://coffee-house-system/user/coffee-house/barista] - stopped
+23:02:27 DEBUG [akka://coffee-house-system/user/coffee-house] - stopped

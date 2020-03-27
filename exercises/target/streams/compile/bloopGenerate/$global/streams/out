@@ -1,0 +1,4 @@
+[debug] [exercises] Classpath dependencies List(common)
+[debug] [exercises] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'exercises' to '/home/wild/projects/lightbend_academy/LAS-P-lightbend-akka-for-scala-professional-v1/.bloop/exercises.json'
+[success] Generated .bloop/exercises.json
